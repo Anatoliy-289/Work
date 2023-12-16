@@ -57,3 +57,7 @@ git branch <имя_новой_ветки>
 ```sh
 git log --oneline --graph
 ```
+12. Слияние веток:
+```sh
+git merge
+```
